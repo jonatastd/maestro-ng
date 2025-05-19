@@ -3,7 +3,7 @@
   "version": "19.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pablo-moreira/maestro-ng.git"
+    "url": "https://github.com/jonatastd/maestro-ng.git"
   },
   "author": {
     "name": "Pablo Filetti Moreira",
@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pablo-moreira/maestro-ng/issues"
+    "url": "https://github.com/jonatastd/maestro-ng/issues"
   },
   "peerDependencies": {
     "@angular/common": "^19.2.0",
