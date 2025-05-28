@@ -31,7 +31,6 @@ import { InputNumberModule } from 'primeng/inputnumber';
 @NgModule({
   imports: [
     // Ng
-    BrowserModule,
     CommonModule,
     FormsModule,
 
